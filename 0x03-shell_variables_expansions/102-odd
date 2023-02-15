@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -n 'p;n'
+perl -e '$!n' -e '1!{w even' -e 'd}' infile > odd
