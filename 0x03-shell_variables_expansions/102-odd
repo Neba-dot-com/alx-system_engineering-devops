@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n 'p;n'
+perl -n 'p;n'
