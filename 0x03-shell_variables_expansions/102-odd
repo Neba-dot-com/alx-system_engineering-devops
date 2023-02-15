@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n 'p;n'
+ls -n 'p;n'
